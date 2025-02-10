@@ -26,8 +26,8 @@ As Filas e Pilhas são amplamente utilizadas em diversos contextos da programaç
 
 Para melhor visualização, qui estão os links para os códigos que implementei:
 
-* [Fila (Queue)]([url](https://github.com/willaevangelista/generationbrasil-filas_pilhas/blob/main/src/atividadesPraticas/Atividade1.java))
-* [Pilha (Stack)]([url](https://github.com/willaevangelista/generationbrasil-filas_pilhas/blob/main/src/atividadesPraticas/Atividade2.java))
+* [Fila (Queue)](.src/atividadesPraticas/Atividade1.java)
+* [Pilha (Stack)](.src/atividadesPraticas/Atividade2.java)
 
 ## Tecnologias Utilizadas
 * Java
