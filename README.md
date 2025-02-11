@@ -32,4 +32,4 @@ Para melhor visualização, qui estão os links para os códigos que implementei
 ## Tecnologias Utilizadas
 * Java
 * Collections Framework
-* IDE utilizada: Srping Tools Suite 4
+* IDE utilizada: Spring Tools Suite 4
