@@ -5,7 +5,7 @@ Este repositório contém implementações práticas das estruturas de dados Fil
 ## Sobre o Projeto
 As estruturas de dados são fundamentais na programação e desempenham um papel essencial na organização e manipulação de informações. Neste repositório, explorei o funcionamento de Filas (Queue) e Pilhas (Stack), aplicando conceitos teóricos na prática.
 
-## Aprendizados
+## Conhecimentos Mobilizados
 * Implementação de Filas e Pilhas em Java usando as classes Queue e Stack
 * Manipulação de dados com os métodos principais dessas estruturas (add(), remove(), push(), pop(), etc.)
 * Aplicação de loops e condicionais para gerenciar operações
